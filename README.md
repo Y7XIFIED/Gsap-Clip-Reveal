@@ -1,35 +1,10 @@
-# gsap-clip-reveal
+<h3 align="center"><b>GSAP CLIP REVEAL</b></h3>
 
-A sleek GSAP-powered scroll text reveal combined with a clip-path hover effect. Text unveils as you scroll, and hovering exposes a hidden colored overlay via CSS clip-path animation — all driven by GSAP ScrollTrigger.
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-**🔗 Live Demo:** [gsap-clip-reveal.vercel.app](https://gsap-clip-reveal.vercel.app)
+Get ready to have your mind blown! 🤯 This is an absolutely stunning GSAP-powered scroll text reveal! As you scroll down, the text magically unveils itself, and when you hover over it, a super cool hidden colored overlay pops up using an awesome CSS clip-path animation! 🎨 It's completely driven by GSAP ScrollTrigger and looks incredibly sleek. Let's make the web fun again! 🚀✨
 
----
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://gsap-clip-reveal.vercel.app](https://gsap-clip-reveal.vercel.app)
 
-## ✨ Features
-
-- Scroll-triggered text fill animation via GSAP ScrollTrigger
-- Clip-path hover reveal with smooth cubic-bezier transitions
-- Nasalization custom font via local OTF asset
-- Zero-dependency frontend (CDN GSAP + Vite bundled CSS/JS)
-
-## 🚀 Local Development
-
-```bash
-npm install
-npm run dev
-```
-
-Visit `http://localhost:5173` (or next available port).
-
-## 📦 Build for Production
-
-```bash
-npm run build
-```
-
-Output goes to `dist/`.
-
----
-
-Made by **Y7XIFIED**
+<div align="center"><p>Y7XIFIED</p></div>
