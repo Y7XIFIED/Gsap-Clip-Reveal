@@ -1,4 +1,4 @@
-<h3 align="center"><b>GSAP-CLIP-REVEAL</b></h3>
+<h3 align="center"><b>Gsap-Clip-Reveal</b></h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
